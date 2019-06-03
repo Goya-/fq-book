@@ -14,7 +14,7 @@
 
 ![](https://raw.githubusercontent.com/loremwalker/fq-book/master/tutorial/imgpng/2018-05-25_004625.png)
 
-打开`index.html`，在`repo`下方添加`lodaSidebar: true`并保存
+打开`index.html`，在`repo`下方添加`loadSidebar: true`并保存
 
 ![](https://raw.githubusercontent.com/loremwalker/fq-book/master/tutorial/imgpng/2018-05-25_005149.png)
 
